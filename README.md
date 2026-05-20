@@ -6,5 +6,5 @@
 
 ## 🌐 Links
 - 건양대학교 SW중심대학사업단: https://sw.kyu.ac.kr
-- SW중심대학협의회: https://swuniv.kr
+- AI·SW중심대학협의회: https://swuniv.kr
 
